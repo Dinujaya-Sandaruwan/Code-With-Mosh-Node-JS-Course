@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/Dinujaya-Sandaruwan/Code-With-Mosh-Node-JS-Course#readme",
   "dependencies": {
+    "lion-lib-24108": "^1.0.0",
     "mongoose": "^7.0.1",
     "underscore": "^1.13.6"
+  },
+  "devDependencies": {
+    "jshint": "^2.13.6"
   }
 }
