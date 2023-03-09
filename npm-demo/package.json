@@ -1,0 +1,23 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "This is the first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinujaya-Sandaruwan/Code-With-Mosh-Node-JS-Course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dinujaya-Sandaruwan/Code-With-Mosh-Node-JS-Course/issues"
+  },
+  "homepage": "https://github.com/Dinujaya-Sandaruwan/Code-With-Mosh-Node-JS-Course#readme",
+  "dependencies": {
+    "mongoose": "^7.0.1",
+    "underscore": "^1.13.6"
+  }
+}
